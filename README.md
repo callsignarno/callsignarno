@@ -16,4 +16,4 @@ Currently exploring Python and C, and occasionally questioning life choices when
  
 ---
 
-*"Still learning. Still curious. Still caffeinated."*
+*"Still learning. Still curious. Probably brewing tea."*
