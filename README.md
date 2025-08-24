@@ -12,7 +12,7 @@ Currently exploring Python and C, and occasionally questioning life choices when
 🤝 Open to: Chatting, collaborating on beginner-friendly stuff, or swapping learning tips.  
 💬 Fun topic: How code works… and how it *sometimes* just… doesn’t.  
 🍵 Fuelled by: Tea and mild stubbornness.  
-🦈 Random fact: Sharks have been here for over 400 million years — long before trees… and long after most things are gone.
+🦈 Random fact: Sharks have been here for over 400 million years...long before tree...and long after most things are gone.
  
 ---
 
